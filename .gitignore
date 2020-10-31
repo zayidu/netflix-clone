@@ -8,6 +8,8 @@
 # testing
 /coverage
 
+/src/lib/firebae.prod.js
+
 # production
 /build
 
